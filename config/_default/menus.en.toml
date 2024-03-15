@@ -7,6 +7,6 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Prfaq"
-url = "blog/prfaq"
+name = "PRFAQ"
+url = "/prfaq"
 weight = 2
