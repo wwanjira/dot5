@@ -1,0 +1,12 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Prfaq"
+url = "blog/prfaq"
+weight = 2
