@@ -7,29 +7,30 @@ description: "Connecting people and improving lives. We are committed to providi
 # save as draft
 draft: false
 ---
-Connecting people and improving lives. We are committed to providing a superior connectivity experience for all.
+
+*Connecting people and improving lives. We are committed to providing a superior connectivity experience for all.*
 
 ##### DOT5 Launches Innovative Connectivity Solutions to Transform Internet Access in Africa
 
-\[Nairobi, Kenya\] – \[November 2024\] – DOT5, an African telecommunication company, is proud to announce the launch of its revolutionary connectivity services aimed at substantially enhancing internet access across Kenya. As a visionary in the telecommunications space, DOT5 is set to tackle the challenge of internet availability and affordability head-on.
+\[Nairobi, Kenya\] -- \[November 2024\] -- DOT5, an African telecommunication company, is proud to announce the launch of its revolutionary connectivity services aimed at substantially enhancing internet access across Kenya. As a visionary in the telecommunications space, DOT5 is set to tackle the challenge of internet availability and affordability head-on.
 
 ##### Revolutionizing Connectivity for Underserved Regions
 
-With a mission to connect users in areas where traditional telecom economics have failed, DOT5 is introducing a new way of thinking about network infrastructure. "Our innovative approach leverages internet design patterns that are cost-effective and scalable," said Wilber Wanjira, Principal Engineer of DOT5. "We are terminating access network-specific protocols at the edge, which allows us to streamline our services and focus on what really matters – keeping people connected."
+With a mission to connect users in areas where traditional telecom economics have failed, DOT5 is introducing a new way of thinking about network infrastructure. "Our innovative approach leverages internet design patterns that are cost-effective and scalable," said Wilber Wanjira, Principal Engineer of DOT5. "We are terminating access network-specific protocols at the edge, which allows us to streamline our services and focus on what really matters -- keeping people connected."
 
-#####  Affordable Internet Access for All
+##### Affordable Internet Access for All
 
 Understanding the crucial role that internet access plays in modern society, DOT5 is committed to providing services that are not only reliable but also affordable. "We believe that internet access is a fundamental right, and our pricing models reflect that belief," Wilber Wanjira stated. "Our goal is to empower communities and stimulate growth by offering connectivity that can drive education, business, and innovation."
 
 ##### Joining Hands for a Connected Future
 
-DOT5 invites communities, businesses, and individuals to join in the journey toward a fully connected Africa. With plans for further expansion and continuous technological enhancements, DOT5 is not just promising a better future – it's delivering it.
+DOT5 invites communities, businesses, and individuals to join in the journey toward a fully connected Africa. With plans for further expansion and continuous technological enhancements, DOT5 is not just promising a better future -- it's delivering it.
 
 ##### About DOT5
 
 DOT5 is a Kenyan telecommunications provider specializing in affordable and reliable internet services. By focusing on innovative solutions, DOT5 aims to bridge the digital divide and foster socioeconomic development across Kenya.
 
-### Internal FAQ
+### External FAQ
 
 ##### Q: What is DOT5?
 
@@ -61,4 +62,4 @@ DOT5 is a Kenyan telecommunications provider specializing in affordable and reli
 
 ##### Q: Who can I contact for more information?
 
-A: For more information, please reach out to our technical lead at [hello@wilber.co.ke](mailto:hello@wilber.co.ke)
+A: For more information, please reach out to our technical lead at [hello\@wilber.co.ke](mailto:hello@wilber.co.ke)
