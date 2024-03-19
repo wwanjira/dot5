@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 # Title of website
-title = "DOT5"
+title = "Fast, reliable, local Internet"
 # theme
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
